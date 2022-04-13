@@ -1,2 +1,2 @@
-FROM httpd:latest
+FROM nginx:alpine
 ADD index.html /var/www/html/
